@@ -1,9 +1,12 @@
 <!-- BEGIN MICROSOFT SECURITY.MD V0.0.8 BLOCK -->
 
 ## Security
-This repository was forked from the official Microsoft repository. Do NOT report any issues about security here. 
+This repository is generated a template that was forked from the official Microsoft repository Python Github repository.
+For any SECURITY issues dealing with the devcontainer, DO NOT OPEN AN ISSUE HERE.
 
-If you believe you have found a security vulnerability in this repository that meets [Microsoft's definition of a security vulnerability](https://aka.ms/opensource/security/definition), please report it to Microsoft as described below.
+If you believe you have found a security vulnerability in the devcontainer that meets [Microsoft's definition of a security vulnerability](https://aka.ms/opensource/security/definition), please report it to Microsoft as described below.
+
+For all other SECURITY issues, please report it to the corresponding package maintainers, and then create an issue letting the maintainers of this repository know to fix the requirements.
 
 ## Reporting Security Issues
 
