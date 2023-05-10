@@ -5,4 +5,4 @@ Example: python -m ruhroh
 """
 
 if __name__ == "__main__":
-    print("I'm a placeholder for ruhroh!")
+    print("I'm a placeholder for puhpoh!")
